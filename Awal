@@ -1,0 +1,12 @@
+Billey-Bot/
+│
+├── package.json
+├── index.js
+├── config.js
+├── handler.js
+│
+├── lib/
+│   ├── functions.js
+│   └── messages.js
+│
+└── session/
